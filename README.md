@@ -17,6 +17,7 @@ step 4: Created two new columns, one called Parent Category and another called S
 
 step 5:
 Created a new sheet with a pivot table that analyzes your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
-https://static.bc-edx.com/data/dl-1-2/m1/lms/img/CategoryStats.jpg
+![image](https://user-images.githubusercontent.com/118146659/227333499-6b65ca3e-a61b-42dc-8a45-2b16f1863193.png)
+
 
 
