@@ -41,6 +41,10 @@ Created a new sheet with a pivot table that has a column of outcome, rows of Dat
 ![image](https://user-images.githubusercontent.com/118146659/227337473-cdc71b77-4588-4c69-a9d4-c9837bf5983d.png)
 
 
+##Crowfunding Goal Analysis
+--------------------------------------
+
+
 
 
 
