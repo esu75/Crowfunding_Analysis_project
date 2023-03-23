@@ -17,7 +17,30 @@ step 4: Created two new columns, one called Parent Category and another called S
 
 step 5:
 Created a new sheet with a pivot table that analyzes your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
+
 ![image](https://user-images.githubusercontent.com/118146659/227333499-6b65ca3e-a61b-42dc-8a45-2b16f1863193.png)
+
+step 6:
+Created a stacked-column pivot chart that can be filtered by country based on the table  created in step 4.
+
+![image](https://user-images.githubusercontent.com/118146659/227334013-c54d3b34-02fb-4107-a060-b89843f58f2f.png)
+
+step 7:
+Created a new sheet with a pivot table that analyzes the initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
+
+step 8: 
+Created a stacked-column pivot chart that can be filtered by country and parent category.
+
+step 9: 
+converted deadline and launched_at Unix timestamps to normal date and created new columns: Date Ended Conversionand and Date Created Conversion 
+
+
+step 10: 
+Created a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.From the created pivot table, a pivot-chart line graph that visualizes this new table has been created.
+
+![image](https://user-images.githubusercontent.com/118146659/227337473-cdc71b77-4588-4c69-a9d4-c9837bf5983d.png)
+
+
 
 
 
