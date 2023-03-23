@@ -75,7 +75,7 @@ Created a new worksheet in the workbook, and created one column for the number o
 
 
 step 17:
-Using Excel to evaluated the following values for successful, and unsuccessful campaigns:
+Using Excel evaluated the following values for successful, and unsuccessful campaigns:
 
 The mean number of backers
 
@@ -88,6 +88,10 @@ The maximum number of backers
 The variance of the number of backers
 
 The standard deviation of the number of backers
+
+![image](https://user-images.githubusercontent.com/118146659/227359263-6964eb80-3a3a-4aa1-a2cb-290058102d1b.png)
+
+
 step 18:
 
 Using the data determine whether the mean or the median better summarizes the data. also, determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why 
